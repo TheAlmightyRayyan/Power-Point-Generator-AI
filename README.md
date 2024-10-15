@@ -37,7 +37,7 @@ To set up the project on your local machine, follow these steps:
    streamlit run app.py
 
 
-##LICENSE
+# LICENSE
 ### Instructions:
 - Replace `yourusername` in the GitHub clone link with your actual GitHub username.
 - Replace `'your-api-key'` with the actual API key setup instructions for your project.
