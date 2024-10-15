@@ -19,3 +19,29 @@ To set up the project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/yourusername/Text_to_PPT.git
    cd Text_to_PPT
+2. **Create a virtual environment (optional but recommended):**
+
+   ```bash
+   python -m venv venv
+3. **Activate the virtual environment:**
+
+   ```bash
+   venv\Scripts\activate
+4. **Install the required packages:**
+
+   ```bash
+   pip install -r requirement.txt
+5. **Usage**
+
+   ```bash
+   streamlit run app.py
+
+#LICENSE
+### Instructions:
+- Replace `yourusername` in the GitHub clone link with your actual GitHub username.
+- Replace `'your-api-key'` with the actual API key setup instructions for your project.
+- Update the license section if you're using a different license. 
+
+Feel free to modify any sections as necessary!
+   
+   
